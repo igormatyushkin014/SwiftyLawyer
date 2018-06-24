@@ -1,3 +1,22 @@
+<p align="center" >
+	<img src="/Images/logo_2048_2048.png" alt="Degree" title="Degree" width="300px" height="300px">
+</p>
+
+<p align="center">
+	<a href="https://swift.org">
+		<img src="https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat">
+	</a>
+	<a href="https://cocoapods.org">
+		<img src="https://img.shields.io/cocoapods/v/SwiftyLawyer.svg">
+	</a>
+	<a href="https://cocoapods.org">
+		<img src="https://img.shields.io/cocoapods/dt/SwiftyLawyer.svg">
+	</a>
+	<a href="https://tldrlegal.com/license/mit-license">
+		<img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat">
+	</a>
+</p>
+
 ## At a Glance
 
 `SwiftyLawyer` is a tool for generating license text.
